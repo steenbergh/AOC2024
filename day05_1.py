@@ -1,3 +1,5 @@
+from day05_data import data
+
 def check(d_restrict, guide):
   for ix, nr in enumerate(guide):
     if nr not in d_restrict.keys():
