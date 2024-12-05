@@ -1,4 +1,4 @@
-from day_04_data import data
+from day04_data import data
 
 def row(grid):
   ret = 0
